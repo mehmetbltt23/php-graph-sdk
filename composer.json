@@ -21,10 +21,5 @@
             "Facebook\\": "src/Facebook/"
         },
         "files": ["src/Facebook/polyfills.php"]
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Facebook\\Tests\\": "tests/"
-        }
     }
 }
