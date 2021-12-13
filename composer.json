@@ -25,13 +25,13 @@
     },
     "autoload": {
         "psr-4": {
-            "mehmetbulut\\Facebook\\": "src/Facebook/"
+            "Facebook\\": "src/Facebook/"
         },
         "files": ["src/Facebook/polyfills.php"]
     },
     "autoload-dev": {
         "psr-4": {
-            "mehmetbulut\\Facebook\\Tests\\": "tests/"
+            "Facebook\\Tests\\": "tests/"
         }
     },
     "extra": {
