@@ -1,13 +1,11 @@
 {
     "name": "mehmetbulut/facebook-sdk",
     "description": "Facebook SDK for PHP",
-    "keywords": ["facebook", "sdk"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Facebook",
-            "homepage": "https://github.com/facebook/php-graph-sdk/contributors"
+            "name": "Facebook"
         }
     ],
     "require": {
